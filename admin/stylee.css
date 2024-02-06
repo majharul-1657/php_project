@@ -1,0 +1,10 @@
+.error{
+    color: red;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.mt a{
+    margin-top: 50px;
+    color: brown;
+}

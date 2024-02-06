@@ -1,0 +1,36 @@
+.margin{
+    margin-left: 380px;
+    padding: 50px;
+ }
+
+ .text-center{
+    color: brown;
+ }
+
+ .show-info{
+    margin-left: 60px;
+ }
+  
+ .form_margin{
+    margin-left: 300px;
+     padding-left: 100px;
+ }
+ .user-top{
+    margin-top: 50px;
+    padding-top: 30px;
+ }
+
+
+
+ 
+
+@ 
+
+/*
+.user-top{
+    color: red;
+}
+
+.m-left{
+margin-left: -400px;
+}*/
